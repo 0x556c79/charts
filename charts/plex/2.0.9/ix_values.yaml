@@ -5,7 +5,7 @@ image:
 plexPassImage:
   pullPolicy: IfNotPresent
   repository: plexinc/pms-docker
-  tag: plexpass
+  tag: beta
 
 resources:
   limits:
