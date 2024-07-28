@@ -4,7 +4,7 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/charts/plex/2.0.9",
-        "last_update": "2024-07-26 06:48:13",
+        "last_update": "2024-07-28 18:15:25",
         "required_features": [
             "definitions/timezone",
             "normalize/ixVolume",
@@ -184,7 +184,7 @@
                                         },
                                         {
                                             "value": "plexPassImage",
-                                            "description": "Plex Pass Image"
+                                            "description": "Plex Beta Image (PlexPass)"
                                         }
                                     ]
                                 }
